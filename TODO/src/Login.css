@@ -1,0 +1,8 @@
+.login{
+    /* border:2px solid olive; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:3px;
+    margin:3px;
+}

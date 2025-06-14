@@ -1,0 +1,13 @@
+*{
+    font-family: cursive;
+    color: white;
+}
+body{
+    background-color: black;
+    /* border:2px solid white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:3px;
+    margin:3px;
+}

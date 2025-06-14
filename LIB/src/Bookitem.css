@@ -1,0 +1,10 @@
+.item{
+    /* border:2px solid blue; */
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+}

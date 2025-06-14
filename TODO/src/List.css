@@ -1,0 +1,9 @@
+.list{
+    /* border:2px solid green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:3px;
+    margin:3px;
+    flex-direction: column;
+}

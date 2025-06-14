@@ -1,0 +1,25 @@
+.navg{
+    /* border:2px solid orange; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:3px;
+    margin:3px;
+}
+
+.title{
+    font-size: 60px;
+    /* border:2px solid brown; */
+    padding:3px;
+    margin:0px 55px 0px 0px;
+}
+
+.side{
+    /* border:2px solid grey; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0px 0px 0px 55px;
+    padding: 3px;
+    flex-direction: column;
+}
